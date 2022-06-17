@@ -11,7 +11,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.8.7",
     "core-js": "^2.5.7",
-    "electron": "^8.2.0",
+    "electron": "^15.5.5",
     "jquery": "^3.5.0",
     "newsapi": "^2.4.0"
   }
